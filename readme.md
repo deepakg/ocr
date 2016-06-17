@@ -1,0 +1,1 @@
+Please see: https://medium.com/@deepak.gulati/how-i-used-perl-tesseract-say-and-ffmpeg-to-digitise-my-dutch-textbook-14b0354f45a5#.vhzv6aulj to figure what's going on here.
